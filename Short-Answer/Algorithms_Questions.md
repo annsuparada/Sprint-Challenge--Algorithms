@@ -7,8 +7,14 @@ pseudocode with respect to the input size n of each of the following:
 
 ```python
 a)  a = 0
-    while (a < n * n * n):
+n = 2
+    while (a < n * n * n): # while a less than 16
       a = a + n * n
+          0 + 2 * 2 = 4
+          4 + 2 * 2 = 8
+          8 + 2 * 2 = 12
+          12+ 2 * 2 = 16
+
 ```
 
 

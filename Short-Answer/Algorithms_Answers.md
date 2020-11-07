@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) o(1)
 
 
-b)
+b) o(n^2)
 
 
-c)
+c) o(n)
 
 ## Exercise II
 
